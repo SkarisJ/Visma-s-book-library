@@ -6,4 +6,16 @@
     <RootNamespace>Book_library</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="library.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="library.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
 </Project>
