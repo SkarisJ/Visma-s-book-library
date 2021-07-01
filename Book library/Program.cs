@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Book_library.Services;
+using System;
 
 namespace Book_library
 {
@@ -6,7 +7,9 @@ namespace Book_library
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var bookLibrary = new BookLibrary();
+
+            bookLibrary.addBook("Jis", "Justas", "Science", "Lithuanian", DateTime.Now, "1254636");
         }
     }
 }

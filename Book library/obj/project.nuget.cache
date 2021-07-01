@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7+f0Py5LWCfyseuof0xoStZMCjWSB4dVujWqbbSriUVKSMWfQSNJsrknqm9aEE4SB//ib6LIFd+Cr0vUvSqzsQ==",
+  "dgSpecHash": "bD6dHA3u37diGJ6y4TUoLUwRhhelPe8jGRTSdor1hmEvdewp22wce15LF9Tlb4MdkQcESMECw+kAr/LtN5yGVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Justas\\source\\repos\\Book library\\Book library\\Book library.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Justas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
